@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+gymnasium[classic_control]==0.29.1
+numpy>=1.24.0
+tqdm>=4.66.0
+matplotlib>=3.7.0
+opencv-python>=4.9.0
+
+# Keep this line commented as it will be different depending on hardware
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu129
+=======
+gymnasium[classic_control]==0.29.1
+numpy>=1.24.0
+tqdm>=4.66.0
+matplotlib>=3.7.0
+opencv-python>=4.9.0
+
+# Keep this line commented as it will be different depending on hardware
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu129
+>>>>>>> 00debab322f4b7ccc48e1f27f50b6ef94360d3dc
