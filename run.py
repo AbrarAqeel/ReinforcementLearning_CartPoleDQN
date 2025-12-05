@@ -51,7 +51,7 @@ PRINT_EVERY = 10
 VIDEO_PATH = os.path.join(OUTPUT_DIR, "cartpole_training.mp4")
 VIDEO_FPS = 30
 
-WATERMARK = "Abrar Aqeel (22108103) | Abubakar Tariq (22108104)"
+WATERMARK = "Abrar Aqeel"
 
 
 # ============================================================
@@ -452,4 +452,5 @@ def train():
 
 if __name__ == "__main__":
     train()
+
 >>>>>>> 00debab322f4b7ccc48e1f27f50b6ef94360d3dc
